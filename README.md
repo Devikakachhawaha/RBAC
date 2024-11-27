@@ -1,4 +1,3 @@
-RBAC Dashboard
 ## RBAC Dashboard
 
 
