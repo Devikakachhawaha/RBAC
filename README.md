@@ -51,7 +51,7 @@ Follow these steps to get the project running locally:
 Install Dependencies:
 
 ```bash
-npm Install
+npm install
 ```
 
 Start the Development Server:
